@@ -1,6 +1,8 @@
 # Task-4 SQL for Data Analysis
 ## I Use SQL queries to extract and analyze data from a database.
-### I Done **SELECT, WHERE, ORDER BY, GROUP BY**
+### I Done
+
+**SELECT, WHERE, ORDER BY, GROUP BY**
 
 **Use JOINS**
 
