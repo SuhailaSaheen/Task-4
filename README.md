@@ -12,4 +12,6 @@
 
 **Create views for analysis**
 
-**Optimize queries with indexes every queries attached as sql file and outputs are uploaded as well.**
+**Optimize queries with indexes** 
+
+Every queries attached as sql file and outputs are uploaded as well.
